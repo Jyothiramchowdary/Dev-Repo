@@ -1,0 +1,13 @@
+1. Centralized Version control system  :  Clearcase, SVN
+  
+ * Parallel Developement is not possible
+ * Changes lost cannot be recovered
+ * Bandwitdh required for making connection to Centralized server
+ * Licence cost
+
+2. Distributed Version control system : GIT/GITHUB , Bitbucket
+
+ * Parallel Developement is possible
+ * No chance of Impact on Main server
+ * Less Bandwitdh required for making connection to Main server
+ * No Licence cost - But subscription are requied for support.
