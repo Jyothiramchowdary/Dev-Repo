@@ -1,3 +1,35 @@
+Overview of GIT
+What is & Why version control system ?
+Traditional System Before GIT ?
+Types of Version Control System(VCS) ?
+Architecture/Flow of GIT
+Installation of Git
+Basic commands of GIT
+======================================================================================================================
+Branches
+Merge and Rebase
+Cherry-pick
+revert
+Tagging
+========================================================================================================================
+Github Account Creation
+Advanced commands of Git
+====================================================================================================================
+Fork Mechansim
+Pull Request 
+==================================================================================================================
+Github Adminsitration
+  * Repository Creation
+  * Branch creation
+  * Switching between Branches
+  * Tag Creation
+  * Create/edit files and commit changes
+==============================================
+  * Collabrators
+  * Branch Protection
+  * Pull Request Mandate & Merge restrictions
+  * SSH Keys & Token creation for Github Operations.
+  * Walk through of General Settings
 GIT - Global Tracking System
 
 Introduction to Git
