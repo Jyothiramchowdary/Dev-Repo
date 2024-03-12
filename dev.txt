@@ -1,0 +1,23 @@
+What is & Why version control system ?
+=============================================================================
+What is version control system ? Managing some unique version or Unique ids via commit_ids in form of Hexa decimal code using SHA mechansim ( Secure hashing Algorithm - 256 bits).
+
+
+Why version control system ?
+
+1. Tracking: We can get the details like  - who modified: user_name and email
+                                            Modified date & time of the user_name
+                                            Size : Size in GB/MB/KB
+                                            We can get details like Which line/word/sentence/paragraph was modified/added/deleted/appended.
+
+
+2. Storage Optimization:  
+
+Let suppose, Developer is working on login-feature of website.
+
+DAY-1: Login-feature.java -> 1 GB Data -> compliation,execution,testing etc -> Working file -> Stable.
+    VCS says -> Record your changes with commit_id - Hexa Demical code -> 3NINCNCCNCNSACSACC59 -> SHA( Secure hashing Algorithm - 256 bits)
+DAY-2: Login-feature.java -> 5 GB Data -> compliation,execution,testing etc  -> Working file -> Stable.
+          VCS says -> Record your changes with commit_id - Hexa Demical code -> Xkdj9hr932r1bno9n9o223
+DAY-3: Login-feature.java -> 5 GB Data -> compliation,execution,testing etc  -> Working file -> Stable.
+          VCS says -> Record your changes with commit_id - Hexa Demical code -> ncnqwdhhinn234RNLKQCR33
