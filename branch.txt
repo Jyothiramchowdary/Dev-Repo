@@ -1,0 +1,13 @@
+The repository in the above diagram indicates a central server that could be local or remote which is
+directly connected to each of the programmer’s workstation.
+Every programmer can extract or update their workstations with the data present in the repository or
+can make changes to the data or commit in the repository. Every operation is performed directly on the
+repository.
+Even though it seems pretty convenient to maintain a single repository, it has some major drawbacks.
+Some of them are:
+• It is not locally available; meaning you always need to be connected to a network to perform any
+action.
+• Since everything is centralized, in any case of the central server getting crashed or corrupted will
+result in losing the entire data of the project.
+This is when Distributed VCS comes to the rescue.
+2. Distributed Version Control Systems.
