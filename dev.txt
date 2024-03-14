@@ -1,0 +1,22 @@
+Maven Overview
+Maven Architecture
+===================================================================================================
+Maven Goals
+Maven Commands
+Installation of Maven
+Cloning Github project and execute maven commands
+=============================================================================================
+Directory Structure of Maven Installation
+Directory Structure of Maven Project
+=======================================================================================================
+Create maven project from scratch using built-in command?
+Explaination of pom.xml
+=====================================================================================================================
+Maven: Maven is  a build tool which resolves/downloads all the dependencies and provides easy way to compile the code and Build the artifacts.
+       Maven also helps in verifying the java code using test cases.
+       Maven supports integration with various tools like sonarqube, nexus, tomcat, jenkins etc
+       Maven provides built-in command for execution complete java files, run test cases, generate artifacts etc
+       Maven also supports pushing the code to sonarqube for code quality checks, duplication of code, bugs, vulnerabilities etc
+       Maven supports in uploading the artifact to Nexus(artifactory Manager) via maven command line
+       Maven allows us to deploy the artifact in Web Server(tomcat) for launching the application
+===================================================================================================
